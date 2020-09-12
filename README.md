@@ -3,4 +3,4 @@ Detection of sarcastic headlines using different Machine Learning techniques, wh
 
 Linear Regression\
 KNN \
-Perceptron\ 
+Perceptron
