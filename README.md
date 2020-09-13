@@ -5,20 +5,20 @@ Linear Regression\
 Percepton \
 KNN
 
-# Results:/
+**Results:**/
 
 KNN (K-Nearest Neighbors) worked best for the problem, among the algorithms mentioned above./
 
 The results from each model trained for the probelm, are shown below:/
 
-# Linear Regression:/
+**Linear Regression:**/
 
 ![alt text](https://github.com/WaizKhan7/Sarcasm-Detection-using-News-Headlines-Dataset-for-Sarcasm-Detection-/blob/master/LR.JPG?raw=true)
 
-# Perceptron:/
+**Perceptron:**/
 
 ![alt text](https://github.com/WaizKhan7/Sarcasm-Detection-using-News-Headlines-Dataset-for-Sarcasm-Detection-/blob/master/perceptron.JPG?raw=true)
 
-# KNN:/
+**KNN:**/
 
 ![alt text](https://github.com/WaizKhan7/Sarcasm-Detection-using-News-Headlines-Dataset-for-Sarcasm-Detection-/blob/master/KNN.JPG?raw=true)
