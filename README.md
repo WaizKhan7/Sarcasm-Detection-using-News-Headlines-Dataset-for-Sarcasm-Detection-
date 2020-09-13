@@ -7,9 +7,9 @@ KNN
 
 **Results:**
 
-KNN (K-Nearest Neighbors) worked best for the problem, among the algorithms mentioned above./
+KNN (K-Nearest Neighbors) worked best for the problem, among the algorithms mentioned above.
 
-The results from each model trained for the probelm, are shown below:/
+The results from each model trained for the probelm, are shown below:
 
 **Linear Regression:**
 
