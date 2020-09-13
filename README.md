@@ -13,12 +13,12 @@ The results from each model trained for the probelm, are shown below:/
 
 **Linear Regression:**/
 
-![alt text](https://github.com/WaizKhan7/Sarcasm-Detection-using-News-Headlines-Dataset-for-Sarcasm-Detection-/blob/master/LR.JPG?raw=true)
+![alt text](https://github.com/WaizKhan7/Sarcasm-Detection-using-News-Headlines-Dataset-for-Sarcasm-Detection-/blob/master/Results/LR.JPG?raw=true)
 
 **Perceptron:**/
 
-![alt text](https://github.com/WaizKhan7/Sarcasm-Detection-using-News-Headlines-Dataset-for-Sarcasm-Detection-/blob/master/perceptron.JPG?raw=true)
+![alt text](https://github.com/WaizKhan7/Sarcasm-Detection-using-News-Headlines-Dataset-for-Sarcasm-Detection-/blob/master/Results/perceptron.JPG?raw=true)
 
 **KNN:**/
 
-![alt text](https://github.com/WaizKhan7/Sarcasm-Detection-using-News-Headlines-Dataset-for-Sarcasm-Detection-/blob/master/KNN.JPG?raw=true)
+![alt text](https://github.com/WaizKhan7/Sarcasm-Detection-using-News-Headlines-Dataset-for-Sarcasm-Detection-/blob/master/Results/KNN.JPG?raw=true)
