@@ -1,4 +1,4 @@
-# Sarcasm-Detection-on-"News-Headlines-Dataset-for-Sarcasm-Detection"-
+# Sarcasm-Detection-on-"News-Headlines-Dataset"-
 Detection of sarcastic headlines using different Machine Learning techniques, which are:
 
 Linear Regression\
