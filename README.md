@@ -1,7 +1,7 @@
 # Sarcasm-Detection-on-"News-Headlines-Dataset"-
 Detection of sarcastic headlines using different Machine Learning techniques, which are:
 
-Linear Regression\
+Logistic Regression\
 Percepton \
 KNN
 
@@ -18,7 +18,7 @@ KNN (K-Nearest Neighbors) worked best for the problem, among the algorithms ment
 
 The results from each model trained for the probelm, are shown below:
 
-**Linear Regression:**
+**Logistic Regression:**
 
 ![alt text](https://github.com/WaizKhan7/Sarcasm-Detection-using-News-Headlines-Dataset-for-Sarcasm-Detection-/blob/master/Results/LR.JPG?raw=true)
 
